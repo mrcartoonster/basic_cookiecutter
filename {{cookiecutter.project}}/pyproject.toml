@@ -21,7 +21,7 @@ black = "22.1.0"
 isort = "^5.10.1"
 
 [tool.pytest.ini_options]
-addopts = "-rssxX -l --tb=short --strict --emoji -vv --diff-symbols"
+addopts = "-rssxX -l --tb=short --strict-markers --emoji -vv --diff-symbols"
 xfail_strict = "True"
 markers = [
   "smoke",
