@@ -1,7 +1,7 @@
 
 # Project Title
 
-{{cookiecutter.desicription}}
+{{cookiecutter.description}}
 
 
 ## License
