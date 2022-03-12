@@ -1,0 +1,8 @@
+{
+    "project": "project",
+    "version": "0.0.1",
+    "python": ["3.8", "3.9", "3.10", "3.11"],
+    "description": "description",
+    "author": "author",
+    "email": "email"
+}
