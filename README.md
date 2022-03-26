@@ -7,4 +7,5 @@ Will be adding [python-semanticversion](https://python-semanticversion.readthedo
 
 Will add changelog here as well. Using basic info.
 
-Adding more packages and listing them within the read me.
+Adding more packages and listing them within the read me. Listing them below in
+the next version.
