@@ -13,4 +13,8 @@ the next version.
 
 ## Basic Use
 
-ToDo
+You can install directly from GitHub repo from within Command line:
+
+```bash
+$ cookiecutter https://github.com/mrcartoonster/basic_cookiecutter
+```
