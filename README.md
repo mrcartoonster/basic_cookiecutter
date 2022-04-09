@@ -22,7 +22,7 @@ $ cookiecutter https://github.com/mrcartoonster/basic_cookiecutter
 
 ## License
 
-[BSD-2 Clause](https://opensource.org/licenses/BSD-2-Clause)
+[GNU General Public License](https://opensource.org/licenses/gpl-license)
 
 
 ## Logs
