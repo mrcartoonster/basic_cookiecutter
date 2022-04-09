@@ -23,3 +23,6 @@ $ cookiecutter https://github.com/mrcartoonster/basic_cookiecutter
 ## License
 
 [BSD-3 Clasue](https://opensource.org/licenses/BSD-3-Clause)
+
+
+## Logs
