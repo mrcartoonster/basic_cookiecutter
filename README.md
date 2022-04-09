@@ -1,4 +1,4 @@
-# Basic Personal Cookiecutter
+  # Basic Personal Cookiecutter
 
 This is a [cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.2/) for basic Python projects using Poetry. Will add Github
 Workflows as well.
@@ -34,4 +34,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [1.0.0] - 2022-04-09
-### Added
